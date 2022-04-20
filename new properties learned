@@ -1,0 +1,4 @@
+box-decoration-break: Specifies whether individual boxes are treated as broken pieces of one continuous box, or whether each box is individually wrapped with the border and padding.
+background-blend-mode: Defines the blending mode of each background layer.
+backface-visibility: Determines whether or not the 'back' side of a transformed element is visible when facing the viewer. With an identity transform, the front side of an element faces the viewer.
+clip-path: Specifies a clipping path where everything inside the path is visible and everything outside is clipped out.
